@@ -1,1 +1,2 @@
-# Uncertainty_Width-UW-
+# Uncertainty_Width-UW
+This repository contains the implementation and computational experiments for the paper "Metrics for Evaluating Stochastic Outputs in Machine Learning Models: Addressing Accuracy and Uncertainty". The project introduces a new metric that quantifies the difference between two probability distributions and separate it into accuracy and precision, with applications in machine learning model evaluation and uncertainty quantification.
